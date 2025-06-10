@@ -1,2 +1,3 @@
+venv
 requirements.txt
 tomato_classifier_model.h5
